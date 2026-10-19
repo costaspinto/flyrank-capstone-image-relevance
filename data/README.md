@@ -1,0 +1,1 @@
+Seed creates 40 synthetic SVG animal illustrations and 10 article records. These are reproducible demo assets, not licensed photographs and not proof of real-world vision accuracy. If seed order changes, regenerate and manually verify evaluation labels.
